@@ -12,7 +12,7 @@ Digital Skin Images?](https://www.biorxiv.org/content/10.1101/2022.08.08.503193v
 - Motivated by the success of artificial intelligence (AI) in COVID-19 detection, the scientific community has shown an increasing interest in using AI in Monkeypox detection from digital skin images.
 
 ## Brief Description of the Method
-we test the feasibility of using state-of-the-art AI techniques to classify different types of pox from digital skin images of pox lesions and rashes. The novelties of this work are the following.
+We test the feasibility of using state-of-the-art AI techniques to classify different types of pox from digital skin images of pox lesions and rashes. The novelties of this work are the following.
 - We utilize a database that contains skin lesion/rash images of 5 different diseases, i.e., Monkeypox, Chickenpox, Smallpox, Cowpox, and Measles, as well as contains healthy skin images.
 - Our database contains more data for pox, measles, and healthy images scraped on the Web (i.e., 804 images), before augmentation, compared to other similar databases.
 - We tested the disease classification power of seven state-of-the-art deep models from digital skin images. We tested the disease classification performance of ResNet50, DenseNet121, Inception-V3, SqueezeNet, MnasNet-A1, MobileNet-V2, and ShuffleNet-V2.
